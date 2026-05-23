@@ -2,11 +2,18 @@
 
 kshitij. 
 
-India, Gurgaon. I build AI Agents & Scalable Systems.
+India, Gurgaon.
+
+> designing systems that survive scale, chaos, and bad assumptions.
+
+Engineer focused on AI agents, distributed infrastructure, and production-grade software.  
+10+ years turning ideas into scalable systems using Python, Linux, cloud infra, and questionable amounts of caffeine.  
+
+Interested in machine learning, autonomous systems, search, and physics.  
+
+$ ship_fast --without-breaking-prod
+
 This is my place to experiment with things that i like / want to explore.
-
-
-
 <p align="left">
 
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
