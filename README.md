@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-kshitij. 
+kshitij. I Graduated with a degree in Computer Science in 2016.
 
 India, Gurgaon.
 
