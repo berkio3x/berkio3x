@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-kshitij. I Graduated with a degree in Computer Science in 2016.
+kshitij. I Graduated with a degree in Computer Science in 2016. 
 
-India, Gurgaon.
+I started programming about 11 years ago andand I've been hooked ever since.
+
+Based in India, Gurgaon.
 
 > designing systems that survive scale, chaos, and bad assumptions.
 
