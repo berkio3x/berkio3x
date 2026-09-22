@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm kshitij**. Director of Engineering <a href="https://www.rzolut.com/">@rzolut</a> .
+**I'm kshitij**. Director of Engineering <a href="https://www.rzolut.com/">@Rzolut</a> .
 
 I Graduated with a degree in Computer Science in 2016. 
 
