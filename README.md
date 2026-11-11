@@ -26,26 +26,11 @@ search, and physics.
 `$ ship_fast --without-breaking-prod`
 
 This is my place to experiment with ideas I want to explore.
-
-
-**I'm kshitij**. Director of Engineering <a href="https://www.rzolut.com/">@Rzolut</a> .
-
-I Graduated with a degree in Computer Science in 2016. 
-
-I started programming about 11 years ago andand I've been hooked ever since.
-
-Based in India, Gurgaon.
  
 > designing systems that survive scale and chaos
 
-Engineer focused on AI agents, distributed infrastructure, and production-grade software.  
-10+ years turning ideas into scalable systems using Python, Linux, cloud infra, and questionable amounts of caffeine.  
+anekix001@gmail.com  ·  [Linkedin](https://www.linkedin.com/in/kshitij-singh-252b35b4/)
 
-Interested in machine learning, autonomous systems, search, and physics.  
-
-$ ship_fast --without-breaking-prod
-
-This is my place to experiment with things that i like / want to explore.
 <p align="left">
 
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
