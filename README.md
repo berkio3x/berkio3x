@@ -1,5 +1,5 @@
 
-<img alt="image" src="https://github.com/user-attachments/assets/44491af4-239c-495d-90bb-beb7001fdf80"
+<img alt="image" src="https://github.com/user-attachments/assets/81ed93ac-dbcc-42f8-9996-db0c4402bb60"
      align="right"
      width="43%"
      alt="Pixel art mountain landscape" />
