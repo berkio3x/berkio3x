@@ -1,4 +1,32 @@
+
+<img alt="image" src="https://github.com/user-attachments/assets/44491af4-239c-495d-90bb-beb7001fdf80"
+     align="right"
+     width="43%"
+     alt="Pixel art mountain landscape" />
+
 ### Hi there 👋
+
+# I'm kshitij.
+
+**Director of Engineering [@Rzolut](https://www.rzolut.com/)**
+
+📍 Gurgaon, India · Coding since 2015
+
+*designing systems that survive scale and chaos.*
+
+Engineer focused on **AI agents, distributed infrastructure,
+and production-grade software.**
+
+10+ years building scalable systems with Python, Linux,
+cloud infrastructure, and questionable amounts of caffeine.
+
+Interested in machine learning, autonomous systems,
+search, and physics.
+
+`$ ship_fast --without-breaking-prod`
+
+This is my place to experiment with ideas I want to explore.
+
 
 **I'm kshitij**. Director of Engineering <a href="https://www.rzolut.com/">@Rzolut</a> .
 
